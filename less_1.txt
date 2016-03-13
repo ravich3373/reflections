@@ -28,3 +28,10 @@ i can always look back at my oilder
 
  dont know,exactly but it may be because git is supposed to be
   working on projects and each file priority is supposed to be equal
+
+  How can you use the commands git log and git diff to
+   view the history of files?
+  git log:shows the previous coomits and their id and  comments
+  git diff:can be used to compare two commits using id's and get the additions and deletions.
+git seems to be pretty useful,i can even it for my web
+ dev and app dev obviously
