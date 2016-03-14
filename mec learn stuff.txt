@@ -1,3 +1,4 @@
 how to use multimeter,breadboards
 
-learn: color-coding
+learn:  resistor color-coding(link in first pdf)
+		capacitor color-coding
