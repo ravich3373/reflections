@@ -35,3 +35,6 @@ i can always look back at my oilder
   git diff:can be used to compare two commits using id's and get the additions and deletions.
 git seems to be pretty useful,i can even it for my web
  dev and app dev obviously
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ like whan we need to add some experimental features
