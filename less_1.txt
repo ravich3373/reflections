@@ -38,3 +38,9 @@ git seems to be pretty useful,i can even it for my web
  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
  like whan we need to add some experimental features
+
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ ANS:when you want to make some experimental changes to the code without spoiling the original track or beanch
+
+ How do the diagrams help you visualize the branch structure?
+ ANS:in diagram each commit shows it's parent commit ant thus forms a branching structure, giving us a chance to visualize a branch structure.
