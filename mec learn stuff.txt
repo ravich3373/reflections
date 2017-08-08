@@ -1,6 +1,0 @@
-how to use multimeter,breadboards
-
-learn:  resistor color-coding(link in first pdf)
-		capacitor color-coding
-
-		exp:3 zener diode(LM 7805), current and voltage and load current stupid relation, ripple factor
